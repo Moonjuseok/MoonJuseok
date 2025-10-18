@@ -13,16 +13,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" src="https://i.postimg.cc/RZz1TMtS/image.jpg" width="200"/>
-
-<h1> 
-  Hi, I'm JuSeok Moon! </h1>
-
 <p>
+  <h1> 
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />  
+    Hi, I'm JuSeok Moon!
+  </h1>
   <em>
     <h3>
       <a href="https://github.com/Moonjuseok/mygit">
-        Juseok's Open Source <img src="https://velog.velcdn.com/images/mouse0429/post/19b9158e-731a-4e60-ab43-efcdafd9244e/%EA%B9%83%ED%97%88%EB%B8%8C.png" height="40px" />
+        Juseok's Open Source <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" width="100"/>
       </a>
     </h3>
   </em>
 </p>
+
+<br />
+<h2> My Skill <img src="https://github.com/user-attachments/assets/5df78e52-2e31-4f61-bcaa-772b82b6bb48" width="30"> </h2>
+<h3>
+<img src="https://img.shields.io/badge/-C-FA4616.svg?&style=for-the-badge&logo=C&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=ffffff">
+
+
+
+
+
+
+
+
+
