@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://i.postimg.cc/RZz1TMtS/image.jpg" width="200"/>
+<img align="right" src="https://i.postimg.cc/RZz1TMtS/image.jpg" width="150"/>
 <p>
   <h1> 
     <br />
@@ -30,6 +30,18 @@ Here are some ideas to get you started:
     </h3>
   </em>
 </p>
+
+<h2>STARTING YEAR</h2>
+17년도부터 개발자의 꿈을 키웠습니다
+
+<h2>프로젝트</h2>
+<h3>  1. 보행자를 위한 스캐닝 슈즈 (with. Arduino & 초음파 Sensor & Gyro Module)</h3>
+<h3>  2. 스마트 어항 시스템 (with. Arduino & DC ServoMotor & pH Sensor)</h3>
+<h3>  3. ANN을 이용한 태양광 발전량 예측 모델 (with. MLP & LSTM & Solar Panel)</h3>
+
+<h3>🤗목표</h3>
+회로 설계, 펌웨어에 관심이 많으며, 더 성장하여 일당백이 목표입니다
+
 
 <br />
 <h2> My Skill <img src="https://github.com/user-attachments/assets/5df78e52-2e31-4f61-bcaa-772b82b6bb48" width="30"> </h2>
