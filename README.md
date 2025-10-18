@@ -54,19 +54,26 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-C-FA4616.svg?&style=for-the-badge&logo=C&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=ffffff"></h3>
+
+  <summary>
+  <h3>그 외 역량 </h3>
+  </summary>
+  
+  VERILOG-HDL  
+  
+  MATLAB    
+  
+  FPGA     
+  
+  반도체공정    
+  
+  SOC    
+  
+  ARDUINO    
+  
+  ORCAD    
+  
+  CENTOS
 </details>
-
-```
-VERILOG-HDL  MATLAB    FPGA     반도체공정    SOC    ARDUINO    ORCAD    CENTOS
-```
-
-<details>
-<summary>
-  그 외 역량
-</summary>
-   토글 안 내용
-</details>
-
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=footer&fontSize=200)
