@@ -48,14 +48,15 @@ Here are some ideas to get you started:
 <h3>
 <img src="https://img.shields.io/badge/-C-FA4616.svg?&style=for-the-badge&logo=C&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=ffffff">
-<h2>그 외 역량</h2>
-VerilogHDL  MATLAB  FPGA  반도체공정  SOC  ARDUINO  ORCAD  CENTOS
+<img src="https://img.shields.io/badge/-linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=ffffff"></h3>
 
+<h2>  
+  그 외 역량
+</h2>
 
-
-
-
+```
+VERILOG-HDL  MATLAB    FPGA     반도체공정    SOC    ARDUINO    ORCAD    CENTOS
+```
 
 
 
