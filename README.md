@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://i.postimg.cc/RZz1TMtS/image.jpg" width="150"/>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header&fontSize=200)
+
+<img align="left" src="https://i.postimg.cc/RZz1TMtS/image.jpg" width="150"/>
 <p>
   <h1> 
     <br />
@@ -44,20 +46,27 @@ Here are some ideas to get you started:
 
 
 <br />
+<details>
+<summary>
 <h2> My Skill <img src="https://github.com/user-attachments/assets/5df78e52-2e31-4f61-bcaa-772b82b6bb48" width="30"> </h2>
-<h3>
-<img src="https://img.shields.io/badge/-C-FA4616.svg?&style=for-the-badge&logo=C&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=ffffff"></h3>
-
-<h2>  
-  그 외 역량
-</h2>
+</summary>
+  <h3>
+  <img src="https://img.shields.io/badge/-C-FA4616.svg?&style=for-the-badge&logo=C&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=ffffff"></h3>
+</details>
 
 ```
 VERILOG-HDL  MATLAB    FPGA     반도체공정    SOC    ARDUINO    ORCAD    CENTOS
 ```
 
+<details>
+<summary>
+  그 외 역량
+</summary>
+   토글 안 내용
+</details>
 
 
 
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=footer&fontSize=200)
