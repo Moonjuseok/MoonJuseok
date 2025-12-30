@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=220&section=header&text=Firmware%20Portfolio&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Ju-seok%20Moon&descSize=20&descAlignY=55" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=220&section=header&text=Firmware%20Portfolio&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Ju-Seok%20Moon&descSize=20&descAlignY=55" width="100%">
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=wnwnwntjr&style=flat-square&color=green" alt=""/>
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Ju--seok+Moon!+👋;Embedded+Firmware+Developer;&font=Montserrat&center=true&width=550&height=50&color=24FCFF&vCenter=true&size=25" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Ju--Seok+Moon!+👋;Embedded+Firmware+Developer;&font=Montserrat&center=true&width=550&height=50&color=24FCFF&vCenter=true&size=25" alt="Typing SVG" />
   </a>
 </h1>
 
