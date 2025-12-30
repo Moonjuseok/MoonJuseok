@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header&fontSize=200)
 
 <img align="left" src="https://i.postimg.cc/RZz1TMtS/image.jpg" width="150"/>
@@ -75,5 +76,52 @@ Here are some ideas to get you started:
   
   CENTOS
 </details>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Ju--seok+Moon!+👋;Embedded+Software+Developer;Hardware+Description+Language(Verilog)&center=true&width=550&height=50&color=2e8b57&vCenter=true&size=25" alt="Typing SVG" />
+  </a>
+</h1>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=footer&fontSize=200)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=본인_아이디&style=flat-square&color=green" alt=""/>
+</div>
+
+<br/>
+
+### 🧑‍💻 About Me
+- 👤 **Name**: Moon Ju-seok (문주석)
+- 🎂 **Age**: 27
+- 🔭 I’m currently working on **FPGA Design & MCU Programming**
+- 🌱 I’m currently improving my skills in **System Verilog & Python Automation**
+- 💻 My main weapons are **C, Python, and Verilog**
+- 📫 Contact: **your_email@example.com**
+
+<br/>
+
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Verilog-B81D24?style=for-the-badge&logo=intel&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/FPGA-00599C?style=for-the-badge&logo=xilinx&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-333333?style=for-the-badge&logo=microchip&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div>
+
+<br/>
+
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인_아이디&layout=compact&theme=forest&langs_count=6" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=본인_아이디&show_icons=true&theme=forest&count_private=true" height="165" alt="github stats" />
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=footer&fontSize=200)-->
+
